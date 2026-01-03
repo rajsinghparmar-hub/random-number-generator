@@ -16,4 +16,4 @@ This is a simple Python program that generates a new random number every time it
 3. Run the program using:
 
 ```bash
-python random_number.py
+randomNumberGenerator.py
