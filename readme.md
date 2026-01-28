@@ -9,3 +9,4 @@ The program keeps running and generates a new number every time until the user s
 - Generates a 5 digit random number
 - Runs in a loop
 - Program stops when user types "n"
+- Author name = Raj singh 
